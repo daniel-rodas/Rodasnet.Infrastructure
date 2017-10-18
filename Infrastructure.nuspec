@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+    <!-- The identifier that must be unique within the hosting gallery -->
+    <id>Rodasnet.Infrastructure</id>
+
+    <!-- The package version number that is used when resolving dependencies -->
+    <version>1.0.0-alpha</version>
+
+    <!-- Authors contain text that appears directly on the gallery -->
+    <authors>Daniel Rodas</authors>
+
+    <!-- Owners are typically nuget.org identities that allow gallery
+            users to easily find other packages by the same owners.  -->
+    <owners>rodas007</owners>
+
+    <!-- License and project URLs provide links for the gallery -->
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+
+    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure</projectUrl>
+
+    <!-- If true, this value prompts the user to accept the license when
+            installing the package. -->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+    <!-- Any details about this particular release -->
+    <releaseNotes>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Core 1.1 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</releaseNotes>
+
+    <!-- The description can be used in package manager UI. Note that the
+            nuget.org gallery uses information you add in the portal. -->
+    <description>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Core 1.1 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</description>
+
+    <!-- Copyright information -->
+    <copyright>Copyright ©2017 Rodas Net</copyright>
+
+    <!-- Tags appear in the gallery and can be used for tag searches -->
+    <tags>cqrs journey, .net core, event sourcing</tags>
+
+    <!-- Dependencies are automatically installed when the package is installed -->
+
+    </metadata>
+
+    <!-- A readme.txt to display when the package is installed -->
+
+</package>
