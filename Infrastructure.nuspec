@@ -5,7 +5,7 @@
     <id>Rodasnet.Infrastructure</id>
 
     <!-- The package version number that is used when resolving dependencies -->
-    <version>1.1.0-alpha</version>
+    <version>1.2.0-alpha</version>
 
     <!-- Authors contain text that appears directly on the gallery -->
     <authors>Daniel Rodas</authors>
@@ -24,11 +24,11 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 
     <!-- Any details about this particular release -->
-    <releaseNotes>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Core 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</releaseNotes>
+    <releaseNotes>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</releaseNotes>
 
     <!-- The description can be used in package manager UI. Note that the
             nuget.org gallery uses information you add in the portal. -->
-    <description>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Core 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</description>
+    <description>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</description>
 
     <!-- Copyright information -->
     <copyright>Copyright ©2017 Rodas Net</copyright>
