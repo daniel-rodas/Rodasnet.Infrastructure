@@ -17,14 +17,14 @@
     <!-- License and project URLs provide links for the gallery -->
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
 
-    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure</projectUrl>
+    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure/tree/v1.5.0-alpha</projectUrl>
 
     <!-- If true, this value prompts the user to accept the license when
             installing the package. -->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 
     <!-- The icon is used in Visual Studio's package manager UI -->
-    <iconUrl>//rodasnet.com/assets/img/logo/logotype.png</iconUrl>
+    <iconUrl>http://rodasnet.com/assets/img/logo/logotype.png</iconUrl>
 
     <!-- Any details about this particular release -->
     <releaseNotes>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx
