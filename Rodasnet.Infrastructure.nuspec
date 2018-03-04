@@ -5,7 +5,7 @@
     <id>Rodasnet.Infrastructure</id>
 
     <!-- The package version number that is used when resolving dependencies -->
-    <version>1.3.2-alpha</version>
+    <version>1.5.0-alpha</version>
 
     <!-- Authors contain text that appears directly on the gallery -->
     <authors>Daniel Rodas</authors>
@@ -23,18 +23,24 @@
             installing the package. -->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 
+    <!-- The icon is used in Visual Studio's package manager UI -->
+    <iconUrl>//rodasnet.com/assets/img/logo/logotype.png</iconUrl>
+
     <!-- Any details about this particular release -->
-    <releaseNotes>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</releaseNotes>
+    <releaseNotes>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx
+Added AMQP helper class
+Added HealthCheck helper class
+Drop support for .NET Standard 1.x</releaseNotes>
 
     <!-- The description can be used in package manager UI. Note that the
             nuget.org gallery uses information you add in the portal. -->
     <description>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</description>
 
     <!-- Copyright information -->
-    <copyright>Copyright ©2017 Rodas Net</copyright>
+    <copyright>Copyright ©2018 Rodas Net</copyright>
 
     <!-- Tags appear in the gallery and can be used for tag searches -->
-    <tags>cqrs journey, .net core, event sourcing</tags>
+    <tags>cqrs journey, .net core, event sourcing, amqp, health check</tags>
 
     <!-- Dependencies are automatically installed when the package is installed -->
 
