@@ -17,7 +17,7 @@
     <!-- License and project URLs provide links for the gallery -->
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
 
-    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure/tree/v1.5.0-alpha</projectUrl>
+    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure/releases/tag/v1.5.1-alpha</projectUrl>
 
     <!-- If true, this value prompts the user to accept the license when
             installing the package. -->
