@@ -5,7 +5,7 @@
     <id>Rodasnet.Infrastructure</id>
 
     <!-- The package version number that is used when resolving dependencies -->
-    <version>1.5.1-alpha</version>
+    <version>1.5.2-alpha</version>
 
     <!-- Authors contain text that appears directly on the gallery -->
     <authors>Daniel Rodas</authors>
@@ -17,7 +17,7 @@
     <!-- License and project URLs provide links for the gallery -->
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
 
-    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure/releases/tag/v1.5.1-alpha</projectUrl>
+    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure/releases/tag/v1.5.2-alpha</projectUrl>
 
     <!-- If true, this value prompts the user to accept the license when
             installing the package. -->
