@@ -5,7 +5,7 @@
     <id>Rodasnet.Infrastructure</id>
 
     <!-- The package version number that is used when resolving dependencies -->
-    <version>1.5.2-alpha</version>
+    <version>1.5.3-alpha</version>
 
     <!-- Authors contain text that appears directly on the gallery -->
     <authors>Daniel Rodas</authors>
@@ -17,7 +17,7 @@
     <!-- License and project URLs provide links for the gallery -->
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
 
-    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure/releases/tag/v1.5.2-alpha</projectUrl>
+    <projectUrl>https://github.com/rodasnet/Rodasnet.Infrastructure</projectUrl>
 
     <!-- If true, this value prompts the user to accept the license when
             installing the package. -->
@@ -27,17 +27,17 @@
     <iconUrl>http://rodasnet.com/assets/img/logo/logotype.png</iconUrl>
 
     <!-- Any details about this particular release -->
-    <releaseNotes>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx
-Added AMQP helper class
-Added HealthCheck helper class
-Drop support for .NET Standard 1.x</releaseNotes>
+    <releaseNotes>
+    	Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx
+    	Created GET enpoint for HealthChecks controller with no parameters
+    </releaseNotes>
 
     <!-- The description can be used in package manager UI. Note that the
             nuget.org gallery uses information you add in the portal. -->
     <description>Command Query Separation Responsibility and Event Sourcing infrastructure adopted to support .NET Standard 2.0 from the Microsoft cqrs journey. https://msdn.microsoft.com/en-us/library/jj554200.aspx</description>
 
     <!-- Copyright information -->
-    <copyright>Copyright ©2018 Rodas Net</copyright>
+    <copyright>Copyright ©2019 Rodas Net</copyright>
 
     <!-- Tags appear in the gallery and can be used for tag searches -->
     <tags>cqrs journey, .net core, event sourcing, amqp, health check</tags>
